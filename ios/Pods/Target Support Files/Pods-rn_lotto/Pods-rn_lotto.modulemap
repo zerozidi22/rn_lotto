@@ -1,0 +1,6 @@
+module Pods_rn_lotto {
+  umbrella header "Pods-rn_lotto-umbrella.h"
+
+  export *
+  module * { export * }
+}
